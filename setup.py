@@ -23,6 +23,7 @@ setup(name='seed_identities',
             "oyaml>=0.8",
             "coloredlogs>=9.0",
             "semver>=2.8.1",
+            "requests>=2.20.1",
       ],
       entry_points=''' #for click integration
           [console_scripts]
